@@ -7,7 +7,8 @@
 
 1. [相邻不同的字符串个数-medium](./problems/相邻不同的字符串个数.py)
 
-
+# Refs
+1. https://github.com/mayi140611/leetcode-master/blob/master/README.md
 
 
 

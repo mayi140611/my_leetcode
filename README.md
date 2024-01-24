@@ -12,6 +12,10 @@
 1. [x的平方根-easy](./problems/x的平方根.py)
 1. [2的幂-easy](./problems/2的幂.py)
 
+## 树
+1. [Trie前缀树-medium](./problems/Trie前缀树.py)
+> 有意思，算法开始慢慢到实用的场景了！
+应用场景: 字符串检索、字符串自动补全、拼写检查
 # Refs
 1. https://github.com/mayi140611/leetcode-master/blob/master/README.md
 

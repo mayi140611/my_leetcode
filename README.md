@@ -2,7 +2,8 @@
 ## 二分查找
 1. [x的平方根-easy](./problems/x的平方根.py)
 1. [2的幂-easy](./problems/2的幂.py)
-
+## hash
+1. [36.有效的数独-medium](./problems/36.有效的数独.py)
 ## 双指针
 1. [11.盛最多水的容器-medium](./problems/11.盛最多水的容器.py)
 

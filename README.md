@@ -13,6 +13,9 @@
 
 1. [相邻不同的字符串个数-medium](./problems/相邻不同的字符串个数.py)
 
+## 动态规划 & 记忆化搜索
+1. [2400.恰好移动k步到达某一位置的方法数目-medium](./problems/2400.恰好移动k步到达某一位置的方法数目.py)
+
 ## Math
 1. [x的平方根-easy](./problems/x的平方根.py)
 1. [2的幂-easy](./problems/2的幂.py)

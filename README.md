@@ -16,6 +16,7 @@
 ## Math
 1. [x的平方根-easy](./problems/x的平方根.py)
 1. [2的幂-easy](./problems/2的幂.py)
+1. [2400.恰好移动k步到达某一位置的方法数目-medium](./problems/2400.恰好移动k步到达某一位置的方法数目.py)
 
 ## 树
 1. [Trie前缀树-medium](./problems/Trie前缀树.py)
